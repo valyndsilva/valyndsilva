@@ -15,7 +15,7 @@
 
 
 Git Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valyndsilva&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valyndsilva&layout=compact&hide=php)]
 ![](https://starchart.cc/valyndsilva/react.svg)
 ![]()
 ![]()
