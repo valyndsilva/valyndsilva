@@ -14,9 +14,9 @@
 ### 🛠 Skills
 
 
-Git Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valyndsilva&layout=compact&hide=php)]
-![](https://starchart.cc/valyndsilva/react.svg)
+### Git Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valyndsilva&layout=compact&hide=php)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyndsilva&repo=react)]
 ![]()
 ![]()
 ![]()
