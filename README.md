@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://www.valyndsilva.com/" target="_blank" rel="noreferrer"><img src="https://github.com/valyndsilva/valyndsilva/blob/main/valyndsilva-github-repo-card.png" alt="www.valyndsilva.com"></a>
 </p>
+
 ## Hi there 👋 I'm Valyn D'Silva! 
  
 - 🌍 I'm a Front-End Developer based in London + Lisbon
