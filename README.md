@@ -11,11 +11,6 @@
 - ⚡ Motto: Keep striving for progress, not perfection
 - 😄 Fun fact: I love to draw and play the ukulele
 
-### Pinned Repos
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyndsilva&repo=react)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyndsilva&repo=modern-javascript)
-![]()
-
 ## 🛠 Tech Stack
 
 ### Client Side:
