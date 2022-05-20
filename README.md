@@ -16,7 +16,9 @@
 
 ### Git Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valyndsilva&layout=compact&hide=php)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyndsilva&repo=react)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyndsilva&repo=react)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyndsilva&repo=modern-javascript)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyndsilva&repo=advanced-css-sass)
 ![]()
 ![]()
 ![]()
