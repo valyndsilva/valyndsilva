@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Valyn D'Silva! 
+## Hi there 👋 I'm Valyn D'Silva! 
  
 - 🌍 I'm a Front-End Developer based in London + Lisbon
 - 👩‍💻 I'm currently working on...
@@ -11,23 +11,13 @@
 - ⚡ Motto: Keep striving for progress, not perfection
 - 😄 Fun fact: I love to draw and play the ukulele
 
-### 🛠 Skills
-
-
 ### Pinned Repos
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyndsilva&repo=react)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyndsilva&repo=modern-javascript)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyndsilva&repo=advanced-css-sass)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
 ![]()
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ### Client Side:
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
