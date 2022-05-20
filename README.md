@@ -14,8 +14,7 @@
 ### 🛠 Skills
 
 
-### Git Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valyndsilva&layout=compact&hide=php)
+### Pinned Repos
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyndsilva&repo=react)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyndsilva&repo=modern-javascript)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyndsilva&repo=advanced-css-sass)
@@ -91,3 +90,6 @@
 
 ### Device:
 ![](https://img.shields.io/badge/Apple-MacBook_Air_2021-999999?style=for-the-badge&logo=apple&logoColor=white)
+
+### Git Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valyndsilva&layout=compact&hide=php)
