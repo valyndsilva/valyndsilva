@@ -15,9 +15,10 @@
 
 
 ### Pinned Repos
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyndsilva&repo=react&bg_color=#333&text_color=#fff)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyndsilva&repo=react)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyndsilva&repo=modern-javascript)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyndsilva&repo=advanced-css-sass)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]
 ![]()
 ![]()
 ![]()
