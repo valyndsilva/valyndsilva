@@ -5,7 +5,7 @@
 
 ## Hi there 👋 I'm Valyn D'Silva! 
  
-- 🌍 I'm a Front-End Developer based in London + Lisbon
+- 🌍 I'm a Front-End Developer based in London + Lisbon.
 - 👩‍💻 I'm currently working on...
 - 🖥️  See my portfolio [here](https://www.valyndsilva.com)
 - 📫 How to reach me: hi@valyndsilva.com
@@ -13,7 +13,7 @@
 - 💬  Ask me about React or any tech-related stuff.
 - 🤝 I’m looking to collaborate on different projects.
 - 🏆 Goal: Make a difference.
-- ⚡ Motto: Keep striving for progress, not perfection
+- ⚡ Motto: Keep striving for progress, not perfection.
 - 😄 Fun fact: I love to play the ukulele!
 
 ## 🛠 Tech Stack
