@@ -1,3 +1,5 @@
+![](https://github.com/valyndsilva/valyndsilva#:~:text=valyndsilva%2Dgithub%2Drepo%2Dcard.png)
+
 ## Hi there 👋 I'm Valyn D'Silva! 
  
 - 🌍 I'm a Front-End Developer based in London + Lisbon
