@@ -1,6 +1,6 @@
-![](https://github.com/valyndsilva/valyndsilva/blob/main/valyndsilva-github-repo-card.png)
+<!-- ![](https://github.com/valyndsilva/valyndsilva/blob/main/valyndsilva-github-repo-card.png) -->
 <p align="center">
-  <a href="https://www.valyndsilva.com/" target="_blank" rel="noreferrer"><img src="https://github.com/valyndsilva/valyndsilva/blob/main/valyndsilva-github-repo-card.png" alt="my banner"></a>
+  <a href="https://www.valyndsilva.com/" target="_blank" rel="noreferrer"><img src="https://github.com/valyndsilva/valyndsilva/blob/main/valyndsilva-github-repo-card.png" alt="www.valyndsilva.com"></a>
 </p>
 ## Hi there 👋 I'm Valyn D'Silva! 
  
