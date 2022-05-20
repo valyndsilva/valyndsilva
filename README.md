@@ -1,5 +1,7 @@
-![](https://github.com/valyndsilva/valyndsilva#:~:text=valyndsilva%2Dgithub%2Drepo%2Dcard.png)
-
+![](https://github.com/valyndsilva/valyndsilva/blob/main/valyndsilva-github-repo-card.png)
+<p align="center">
+  <a href="https://www.valyndsilva.com/" target="_blank" rel="noreferrer"><img src="https://github.com/valyndsilva/valyndsilva/blob/main/valyndsilva-github-repo-card.png" alt="my banner"></a>
+</p>
 ## Hi there 👋 I'm Valyn D'Silva! 
  
 - 🌍 I'm a Front-End Developer based in London + Lisbon
