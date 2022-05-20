@@ -77,6 +77,3 @@
 
 ### Device:
 ![](https://img.shields.io/badge/Apple-MacBook_Air_2021-999999?style=for-the-badge&logo=apple&logoColor=white)
-
-### Git Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valyndsilva&layout=compact&hide=php)
