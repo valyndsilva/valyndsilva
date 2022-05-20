@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Valyn D'Silva! 
-
+<h3 align="center">
+Hi there, I'm <a href="https://www.valyndsilva.com/" target="_blank" rel="noreferrer">Valyn</a> 👋
+</h3>
 - 🌍 I'm based in London + Lisbon
 - 👩‍💻 I'm currently working on...
 - 🖥️  See my portfolio at valyndsilva.com
