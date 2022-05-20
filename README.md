@@ -14,7 +14,7 @@
 - 🤝 I’m looking to collaborate on different projects.
 - 🏆 Goal: Make a difference.
 - ⚡ Motto: Keep striving for progress, not perfection
-- 😄 Fun fact: I love to draw and play the ukulele
+- 😄 Fun fact: I love to play the ukulele!
 
 ## 🛠 Tech Stack
 
