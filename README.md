@@ -5,26 +5,6 @@
 
 ## Hi there 👋 I'm Valyn D'Silva! 
 
-<table>
-<tr>
- <td>
-- 🌍 I'm a Front-End Developer based in London + Lisbon.
-- 👩‍💻 I'm currently working on...
-- 🖥️  See my portfolio [here](https://www.valyndsilva.com)
-- 📫 How to reach me: hi@valyndsilva.com
-- 🌱 I enjoy learning new skills and am currently exploring Web3.
-- 💬  Ask me about React or any tech-related stuff.
-- 🤝 I’m looking to collaborate on different projects.
-- 🏆 Goal: Make a difference.
-- ⚡ Motto: Keep striving for progress, not perfection.
-- 😄 Fun fact: I love to play the ukulele!
-</td>
-<td><a href="https://app.daily.dev/valyndsilva"><img src="https://github.com/valyndsilva/valyndsilva/blob/main/devcard.svg" width="400" alt="Valyn D'Silva's Dev Card"/></a>
-</td>
-</tr>
-</table>
-
-
 - 🌍 I'm a Front-End Developer based in London + Lisbon.
 - 👩‍💻 I'm currently working on...
 - 🖥️  See my portfolio [here](https://www.valyndsilva.com)
