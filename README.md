@@ -1,7 +1,7 @@
 <!-- ![](https://github.com/valyndsilva/valyndsilva/blob/main/valyndsilva-github-repo-card.png) -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.valyndsilva.com/" target="_blank" rel="noreferrer"><img src="https://github.com/valyndsilva/valyndsilva/blob/main/valyndsilva-github-repo-card.png" alt="www.valyndsilva.com"></a>
-</p>
+</p> -->
 
 ## Hi there 👋 I'm Valyn D'Silva! 
  
@@ -16,7 +16,7 @@
 - ⚡ Motto: Keep striving for progress, not perfection.
 - 😄 Fun fact: I love to play the ukulele!
 
-<a href="https://app.daily.dev/valyndsilva"><img src="https://api.daily.dev/devcards/7ab023266ad24ae5af2f3f3c1dce0867.png?r=4pk" width="400" alt="Valyn D'Silva's Dev Card"/></a>
+<a href="https://app.daily.dev/valyndsilva"><img src="https://github.com/valyndsilva/valyndsilva/blob/main/devcard.svg" width="400" alt="Valyn D'Silva's Dev Card"/></a>
 
 ## 🛠 Tech Stack
 
