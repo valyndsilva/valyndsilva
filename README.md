@@ -16,6 +16,8 @@
 - ⚡ Motto: Keep striving for progress, not perfection.
 - 😄 Fun fact: I love to play the ukulele!
 
+<a href="https://app.daily.dev/valyndsilva"><img src="https://api.daily.dev/devcards/7ab023266ad24ae5af2f3f3c1dce0867.png?r=4pk" width="400" alt="Valyn D'Silva's Dev Card"/></a>
+
 ## 🛠 Tech Stack
 
 ### Client Side:
