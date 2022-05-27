@@ -16,8 +16,6 @@
 - ⚡ Motto: Keep striving for progress, not perfection.
 - 😄 Fun fact: I love to play the ukulele!
 
-<a href="https://app.daily.dev/valyndsilva"><img src="https://github.com/valyndsilva/valyndsilva/blob/main/devcard.svg" width="400" alt="Valyn D'Silva's Dev Card"/></a>
-
 ## 🛠 Tech Stack
 
 ### Client Side:
@@ -84,3 +82,7 @@
 
 ### Device:
 ![](https://img.shields.io/badge/Apple-MacBook_Air_2021-999999?style=for-the-badge&logo=apple&logoColor=white)
+
+### Articles Read:
+<a href="https://app.daily.dev/valyndsilva"><img src="https://github.com/valyndsilva/valyndsilva/blob/main/devcard.svg" width="400" alt="Valyn D'Silva's Dev Card"/></a>
+
