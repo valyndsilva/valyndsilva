@@ -30,7 +30,7 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![](https://img.shields.io/badge/React-Native-20232A?style=for-the-badge&logo=react-native&logoColor=61DAFB)
+![](https://img.shields.io/badge/React-Native-20232A?style=for-the-badge)
 
 ### Server Side
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
