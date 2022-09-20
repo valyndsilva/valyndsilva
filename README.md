@@ -34,7 +34,7 @@
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Package Manager
-![](https://img.shields.io/badge/PnPm-F8AD01?style=for-the-badge)
+![](https://img.shields.io/badge/PnPm-F8AD01?style=for-the-badge&logo=pnpm&logoColor=white)
 
 ### Content Platform:
 ![](https://img.shields.io/badge/Sanity.io-orange?style=for-the-badge)
