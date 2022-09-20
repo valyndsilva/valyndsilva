@@ -33,6 +33,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+### Package Manager
+![](https://img.shields.io/badge/PnPm?style=for-the-badge)
+
 ### Content Platform:
 ![](https://img.shields.io/badge/Sanity.io-orange?style=for-the-badge)
 
