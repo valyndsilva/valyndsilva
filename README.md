@@ -88,5 +88,4 @@
 ![](https://img.shields.io/badge/Apple-MacBook_Air_2021-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Articles Read:
-<a href="https://app.daily.dev/valyndsilva"><img src="https://github.com/valyndsilva/valyndsilva/blob/main/devcard.svg" width="400" alt="Valyn D'Silva's Dev Card"/></a>
-
+<a href="https://app.daily.dev/valyndsilva"><img src="https://api.daily.dev/devcards/7ab023266ad24ae5af2f3f3c1dce0867.png?r=vok" width="400" alt="Valyn D'Silva's Dev Card"/></a>
