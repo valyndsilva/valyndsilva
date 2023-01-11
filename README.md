@@ -7,8 +7,8 @@
 
 - 🌍 I'm a Front-End Developer based in London + Lisbon.
 - 👩‍💻 I'm currently working on...
-- 🖥️  See my portfolio [here](https://www.valyndsilva.com)
-- 📫 How to reach me: hi@valyndsilva.com
+- 🖥️  See my portfolio [here](https://www.valynsilva.com)
+- 📫 How to reach me: hello@valynsilva.com
 - 🌱 I enjoy learning new skills and am currently exploring Web3.
 - 💬  Ask me about React or any tech-related stuff.
 - 🤝 I’m looking to collaborate on different projects.
