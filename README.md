@@ -2,11 +2,10 @@
 <!-- <p align="center">
   <a href="https://www.valyndsilva.com/" target="_blank" rel="noreferrer"><img src="https://github.com/valyndsilva/valyndsilva/blob/main/valyndsilva-github-repo-card.png" alt="www.valyndsilva.com"></a>
 </p> -->
-
+<!-- - 👩‍💻 I'm currently working on... -->
 ## Hi there 👋 I'm Valyn D'Silva! 
 
 - 🌍 I'm a Front-End Developer based in London + Lisbon.
-<!-- - 👩‍💻 I'm currently working on... -->
 - 🖥️  See my portfolio [here](https://www.valynsilva.com)
 - 📫 How to reach me: hello@valynsilva.com
 - 🌱 I enjoy learning new skills and am currently exploring the field of AI and Web3.
