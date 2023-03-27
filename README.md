@@ -9,7 +9,7 @@
 - 👩‍💻 I'm currently working on...
 - 🖥️  See my portfolio [here](https://www.valynsilva.com)
 - 📫 How to reach me: hello@valynsilva.com
-- 🌱 I enjoy learning new skills and am currently exploring Web3.
+- 🌱 I enjoy learning new skills and am currently exploring the field of AI and Web3.
 - 💬  Ask me about React or any tech-related stuff.
 - 🤝 I’m looking to collaborate on different projects.
 - 🏆 Goal: Make a difference.
