@@ -45,8 +45,8 @@
 ![](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
  -->
 ### Testing:
-![](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![](https://img.shields.io/badge/Cypress-323330?style=for-the-badge&logo=cypress&logoColor=Brown)
+![](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=C21324)
+![](https://img.shields.io/badge/Cypress-43853D?style=for-the-badge&logo=cypress&logoColor=white)
 ![](https://img.shields.io/badge/React_Testing_Library-323330?style=for-the-badge&logo=react-testing-library&logoColor=red)
 
 
