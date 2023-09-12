@@ -47,7 +47,7 @@
 ### Testing:
 ![](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=C21324)
 ![](https://img.shields.io/badge/Cypress-43853D?style=for-the-badge&logo=cypress&logoColor=white)
-![](https://img.shields.io/badge/React_Testing_Library-323330?style=for-the-badge&logo=react-testing-library&logoColor=red)
+![](https://img.shields.io/badge/React_Testing_Library-323330?style=for-the-badge&logo=react-testing-library&logoColor=EF403F)
 
 
 ### CSS Frameworks:
