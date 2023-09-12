@@ -46,8 +46,8 @@
  -->
 ### Testing:
 ![](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![](https://img.shields.io/badge/Cypress-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
-![](https://img.shields.io/badge/React-Testing-Library-323330?style=for-the-badge&logo=chai&logoColor=red)
+![](https://img.shields.io/badge/Cypress-323330?style=for-the-badge&logo=cypress&logoColor=Brown)
+![](https://img.shields.io/badge/React_Testing_Library-323330?style=for-the-badge&logo=react-testing-library&logoColor=red)
 
 
 ### CSS Frameworks:
