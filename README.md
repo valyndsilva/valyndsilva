@@ -16,10 +16,10 @@
 ---
 
 ## A Few Things About Me
-
+ 
 Senior Product Engineer with 10+ years building high-impact SaaS products. I own features end-to-end — from shaping architecture and defining technical direction to shipping things users actually love.
-
-Most recently: leading CMS overhauls, architecting rich text editor systems, and integrating AI features (chat, content generation, smart suggestions) into production at scale. Currently going deeper on **structured LLM outputs**, **AI agents**, and **evaluation pipelines**.
+ 
+Most recently: leading CMS overhauls, architecting rich text editor systems, and integrating AI features (chat, content generation, smart suggestions) into production at scale.
 
 - 🏗️ I care deeply about architecture decisions that scale — not just code that ships
 - 🤖 Shipping AI features in production and going deeper on agents & evaluation pipelines
@@ -27,7 +27,8 @@ Most recently: leading CMS overhauls, architecting rich text editor systems, and
 - 🤝 Open to collaborating on interesting frontend or AI-driven projects
 - 🧩 Fun fact: I can't leave a component 'good enough' — I'll refactor it at 11pm just because
 - ⚡ Motto: *Keep striving for progress, not perfection*
-
+- 🔍 Currently going deeper on **`Structured LLM Outputs`** · **`AI Agents`** · **`Evaluation Pipelines`**
+ 
 ```
 React · Next.js · TypeScript · AI Integration · Design Systems · Frontend Architecture
 ```
