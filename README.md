@@ -1,6 +1,7 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:0f766e&height=160&section=header&animation=fadeIn"/>
+
 # Valyn Maria D'Silva
 
 ### Senior Product Engineer · London 🇬🇧
@@ -63,34 +64,13 @@ Full-stack SaaS platform built with React, FastAPI, PostgreSQL, and OpenAI APIs.
 
 ---
 
-## 🎯 Current Focus
+## 🔭 Exploring
 
-* Agentic AI Systems
-* AI Evaluation & Reliability
 * System Design
+* AI Evaluation & Reliability
 * MCP (Model Context Protocol)
-* Retrieval-Augmented Generation (RAG)
+* Agentic Workflows
 * Product Engineering
-
----
-
-## 🛠 Core Stack
-
-### Frontend
-
-React · Next.js · TypeScript · Tailwind CSS
-
-### Backend
-
-Node.js · FastAPI · PostgreSQL
-
-### AI
-
-Claude · OpenAI · LangGraph · RAG · LLM Evaluation
-
-### Infrastructure
-
-Vercel · GitHub Actions · PostgreSQL · Redis
 
 ---
 
