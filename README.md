@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:0f766e&height=140&section=header"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:0f766e&height=160&section=header&animation=fadeIn"/>
 # Valyn Maria D'Silva
 
 ### Senior Product Engineer · London 🇬🇧
@@ -99,6 +98,6 @@ Vercel · GitHub Actions · PostgreSQL · Redis
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:0d9488&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:0d9488&height=120&section=footer"/>
 
 </div>
