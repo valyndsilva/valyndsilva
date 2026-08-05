@@ -38,7 +38,7 @@ I'm particularly interested in product engineering, AI-powered workflows, evalua
 
 ## 🌟 Featured Projects
 
-### 🧠 Lumen — AI Research Agent
+### 🧠 [Lumen — AI Research Agent](https://github.com/valyndsilva/lumen)
 
 AI-powered research platform built with FastAPI, LangGraph, PostgreSQL, and pgvector.
 
@@ -51,7 +51,7 @@ AI-powered research platform built with FastAPI, LangGraph, PostgreSQL, and pgve
 * Evaluation pipelines combining LLM-as-judge scoring and deterministic validation
 * Production-focused reliability through caching, rate limiting, SSE streaming, and regression tracking
 
-### 💼 TalentLens — AI-Powered Job Marketplace
+### 💼 [TalentLens — AI-Powered Job Marketplace](https://github.com/valyndsilva/TalentLens)
 
 Full-stack SaaS platform built with React, FastAPI, PostgreSQL, and OpenAI APIs.
 
