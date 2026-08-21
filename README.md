@@ -4,9 +4,11 @@
 
 # Valyn Maria D'Silva
 
-### Senior Product Engineer · London 🇬🇧
+### Senior Product Engineer · AI Product Engineering · London 🇬🇧
 
-Building SaaS products, AI-powered experiences, and platform systems.
+Building SaaS products, AI-powered experiences, and production AI systems.
+
+**Open to fully remote and remote-first roles · Max 1 day/week onsite**
 
 [🌐 Portfolio](https://www.valynsilva.com) •
 [💼 LinkedIn](https://linkedin.com/in/valyndsilva) •
@@ -18,11 +20,11 @@ Building SaaS products, AI-powered experiences, and platform systems.
 
 ## 👋 About Me
 
-I'm a Senior Product Engineer with 10+ years building SaaS products and customer-facing experiences.
+I'm a Senior Product Engineer with 10+ years building and scaling customer-facing B2B SaaS products across frontend architecture, backend systems, and AI.
 
-Most recently at Trumpet, I owned the CMS, Widget Library, and Rich Text Editor product areas, helping deliver a platform overhaul that reduced page creation time by 35% and support tickets by 25%.
+Most recently at Trumpet, I owned the CMS, Widget Library, and real-time collaborative editor, while shipping AI-powered product experiences for enterprise customers including Stripe, HubSpot, and Gong.
 
-I'm particularly interested in product engineering, AI-powered workflows, evaluation systems, and building software that solves real customer problems.
+I'm particularly interested in **AI-native products, agentic workflows, evaluation and reliability, and product engineering**, building software that solves real customer problems.
 
 ---
 
@@ -30,7 +32,7 @@ I'm particularly interested in product engineering, AI-powered workflows, evalua
 
 * 🚀 Reduced page creation time by **35%** through a major CMS platform overhaul
 * ⚡ Led migration across **50,000+ customer pods** with zero data loss or regressions
-* 🤖 Shipped AI-powered product features that increased engagement by **15%**
+* 🤖 Shipped AI-powered product features that increased buyer engagement by **22%**
 * 🧩 Architected **18+ custom editor widgets** and integrated **20+ plugins**
 * 📈 Increased frontend test coverage from **15% → 55%**
 
@@ -38,7 +40,7 @@ I'm particularly interested in product engineering, AI-powered workflows, evalua
 
 ## 🌟 Featured Projects
 
-### 🩺 [Consilium — Multi-Agent Medication Review](https://github.com/valyndsilva/consilium)
+### 🩺 [Consilium | Multi-Agent Medication Review](https://github.com/valyndsilva/consilium)
 
 Multi-agent clinical decision-support prototype built with Python, FastAPI, LangGraph, and PostgreSQL.
 
@@ -51,7 +53,7 @@ Multi-agent clinical decision-support prototype built with Python, FastAPI, Lang
 * MCP server for guideline retrieval and first-party AI tracing
 * Evaluation across **9 synthetic patients**, catching **26/26 planted findings**
 
-### 🧠 [Lumen — AI Research Agent](https://github.com/valyndsilva/lumen)
+### 🧠 [Lumen | AI Research Agent](https://github.com/valyndsilva/lumen)
 
 AI-powered research platform built with FastAPI, LangGraph, PostgreSQL, and pgvector.
 
@@ -64,7 +66,7 @@ AI-powered research platform built with FastAPI, LangGraph, PostgreSQL, and pgve
 * Evaluation pipelines combining LLM-as-judge scoring and deterministic validation
 * Production-focused reliability through caching, rate limiting, SSE streaming, and regression tracking
 
-### 💼 [TalentLens — AI-Powered Job Marketplace](https://github.com/valyndsilva/TalentLens)
+### 💼 [TalentLens | AI-Powered Job Marketplace](https://github.com/valyndsilva/TalentLens)
 
 Full-stack SaaS platform built with React, FastAPI, PostgreSQL, and OpenAI APIs.
 
@@ -77,12 +79,32 @@ Full-stack SaaS platform built with React, FastAPI, PostgreSQL, and OpenAI APIs.
 
 ---
 
+## 🛠️ Technical Focus
+
+**AI & LLMs**
+
+`RAG` · `Agentic Workflows` · `LLM Evaluation` · `LLM-as-Judge` · `Guardrails` · `Multi-Provider Orchestration` · `MCP`
+
+**Frontend**
+
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `PlateJS` · `Lexical` · `Storybook`
+
+**Backend & Data**
+
+`Node.js` · `Python` · `FastAPI` · `PostgreSQL` · `MongoDB` · `Convex`
+
+**Testing & Infrastructure**
+
+`Playwright` · `Jest` · `React Testing Library` · `GitHub Actions` · `Docker` · `Vercel` · `PostHog`
+
+---
+
 ## 🔭 Exploring
 
-* System Design
 * AI Evaluation & Reliability
-* MCP (Model Context Protocol)
 * Agentic Workflows
+* MCP (Model Context Protocol)
+* System Design
 * Product Engineering
 
 ---
