@@ -38,6 +38,19 @@ I'm particularly interested in product engineering, AI-powered workflows, evalua
 
 ## 🌟 Featured Projects
 
+### 🩺 [Consilium — Multi-Agent Medication Review](https://github.com/valyndsilva/consilium)
+
+Multi-agent clinical decision-support prototype built with Python, FastAPI, LangGraph, and PostgreSQL.
+
+**Highlights**
+
+* Multi-agent workflow with isolated specialty advocates and a mediator
+* Deterministic auditor with **zero LLM calls** for clinical safety checks
+* Evidence-backed findings with citations and explicit handling of missing data
+* Durable workflows with checkpointing, clinician sign-off, and SSE streaming
+* MCP server for guideline retrieval and first-party AI tracing
+* Evaluation across **9 synthetic patients**, catching **26/26 planted findings**
+
 ### 🧠 [Lumen — AI Research Agent](https://github.com/valyndsilva/lumen)
 
 AI-powered research platform built with FastAPI, LangGraph, PostgreSQL, and pgvector.
